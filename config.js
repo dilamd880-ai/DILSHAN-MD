@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "DILSHAN-MD|z8xHhB4Q#B3VcmEO57EVoMt8rMmDWPa7mW7PXcQZi8mdwEPO_GO0", // Put your session id here
+  SESSION_ID: "DILSHAN-MD|39gVQSwR#pIPVY1BIWDcmqAiV5RDYhCqCRfp5eCnCYUvVEOM4AUc", // Put your session id here
   ALIVE_IMG: "https://github.com/dilshan62/DILSHAN-MD/blob/main/images/bot_connected.png?raw=true",
   ALIVE_MSG: "", // Change alive msg from here
   BOT_OWNER: "94753296760", // Replace your bot owner number here with 94(country code)
